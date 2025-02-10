@@ -43,7 +43,6 @@ Finally, I read in some of the revised CSVs in R and do some exploratory data vi
 I save several sub-datasets as CSVs that I use for visualization in Datawrapper.
 
 ## Reflection
-***
 I improved my skills in analyzing, consolidating and merging datasets to obtain insights. This project also helped me improve my skills using BeautifulSoup and Playwright to add more information from an external site to all elements in a list of dictionaries. 
 
 This was also one of my first experiences using ggplot in R for exploratory data visualization. I practiced moving between Pandas, R, and Python all in the same Jupyter Notebook.
