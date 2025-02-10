@@ -1,4 +1,4 @@
-# Analyzing FEMA Data on Wildfires
+# Analyzing FEMA Data on Wildfires: [Story](https://annikamcginnis.github.io/wildfires-fema/)
 
 ## Goal
 - To analyze how the frequency and locations of wildfires in the United States are changing over time.
