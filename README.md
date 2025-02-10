@@ -1,12 +1,10 @@
 # Analyzing FEMA Data on Wildfires
 
 ## Goal
-***
 - To analyze how the frequency and locations of wildfires in the United States are changing over time.
 - To analyze the trends of FEMA's aid delivery for wildfire victims.
 
 ## Main Findings
-***
 - The Federal Emergency Management Agency (FEMA) has declared over 1,600 wildfire disasters since 1953, with numbers increasing especially since 1996.
 - Since November 2002, when FEMA started recording the data, the agency has helped over 2,000 communities (divided by zip code) across the nation respond to wildfires.
 - More areas in the American West are experiencing wildfires in recent years.
@@ -17,7 +15,6 @@
 - The average financial aid both renters and homeowners have received on average is smaller with a higher number of people receiving aid in the zip code.
   
 ## Data Collection
-***
 I acquired datasets through OpenFEMA:
 - [Disaster Declarations](https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1)
 - [Housing Assistance Program Data - Owners](https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2)
@@ -25,7 +22,6 @@ I acquired datasets through OpenFEMA:
 - [Public Assistance Funded Projects Details](https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1) (not included in the final analysis)
   
 ## Data Analysis
-***
 I used the following languages and libraries in my data cleaning and analysis: 
 - Python
 - Pandas
